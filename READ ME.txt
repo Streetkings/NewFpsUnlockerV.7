@@ -1,0 +1,25 @@
+1. Updated signatures for August 2023 Roblox update
+
+2. Added Alt-Enter Fix setting, which sets the FFlagHandleAltEnterFullscreenManually flag in ClientAppSettings.json
+
+3. Added Revert Flags on Close advanced setting (default on), which will reset any flags written by RFU to their default values upon exit
+
+4. Bugfix: Toggling off Unlock Roblox Player or Unlock Roblox Studio will reset the FPS caps of previously attached processes
+
+5. Bugfix: Fix RFU abort/crash that occurred when unlocking Roblox Studio
+
+6. REMINDER: Use of the Memory Write unlock mode with Roblox's Hyperion-protected client is unstable and not recommended. It may work sometimes, but expect crashes and Failed to get process base/Unable to find TaskScheduler/Variable scan failed errors.
+
+7. Need Help? Cannot Open It? Download The File Opener "WinWar" At: https://www.win-rar.com/start.html?&L=0 Then You Shoud Be Good To Go!
+
+WARNING!:
+Windows 10 Or 11 Thinks This Is A Virus. If The File Disapears, 
+
+1. Redownload It And Extract It With WinWar.
+
+2. You Might Have To Turn Off Your AntiVirus For It To Work. We Are Working On The Code For This Issue.
+
+3. GitHub SourceCode: https://github.com/axstin/rbxfpsunlocker/releases/tag/v5.1
+
+4. Enjoy Your New Fps! :D
+
